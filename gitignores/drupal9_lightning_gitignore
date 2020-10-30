@@ -17,6 +17,7 @@ docroot/vendor
 vendor
 /acquia-file
 acquia-pipelines.yml
+drush
 log
 
 # Ignore vim swp files and gedit temp files
