@@ -13,8 +13,10 @@ docroot/profiles/
 docroot/README.txt
 docroot/robots-staging.txt
 docroot/robots.txt
+docroot/vendor
 vendor
 /acquia-file
+acquia-pipelines.yml
 log
 
 # Ignore vim swp files and gedit temp files
